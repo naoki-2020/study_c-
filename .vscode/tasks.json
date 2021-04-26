@@ -8,7 +8,7 @@
             "args": [
                 "-g",
                 "-O0",
-                "sample.cpp"
+                "maximum_profit.cpp"
             ],
             "group": {
                 "kind": "build",
